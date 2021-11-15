@@ -61,6 +61,13 @@ section {
 .menus {
   text-align: left;
   margin-left: 60px;
+  font-size: xx-large;
+  text-align: center
+}
+
+.leftmenus {
+  display: inline-block; 
+  text-align: left;
 }
 
 .left-col .subhead {
